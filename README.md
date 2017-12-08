@@ -1,6 +1,8 @@
 # sghmc-game
 
-Currently deployed for testing under https://replikativ.io/sghmc/, will move at some point.
+This is a web demo application for [SGHMC sampling](https://arxiv.org/abs/1402.4102). There is also some [reference code in matlab](https://github.com/tqchen/ML-SGHMC).
+
+Currently deployed for testing under http://replikativ.io/sghmc/, will move at some point.
 
 ## Overview
 
@@ -34,6 +36,6 @@ get live reloading, nor a REPL.
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2017 Christian Weilbach
 
 Distributed under the Eclipse Public License either version 1.0 or (at your option) any later version.
